@@ -38,6 +38,10 @@ This Dart project simulates an ecosystem where various animal species interact w
   
   Обходите животных в экосистеме с помощью унифицированного интерфейса.
 
+## UML diagram / UML диаграмма
+
+![UML diagram](uml.png)
+
 ## Getting Started / Начало работы
 
 ### Prerequisites / Требования
